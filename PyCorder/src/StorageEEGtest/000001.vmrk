@@ -1,0 +1,51 @@
+Brain Vision Data Exchange Marker File, Version 1.0
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=000001.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20210215221526093000
+Mk2=Stimulus,S 15,126,1,0
+Mk3=Response,R 15,126,1,0
+Mk4=Comment,TO255,126,1,0
+Mk5=Comment,BtnPressed,126,1,0
+Mk6=Comment,BtnReleased,376,1,0
+Mk7=Stimulus,S 15,626,1,0
+Mk8=Response,R 15,626,1,0
+Mk9=Comment,TO255,626,1,0
+Mk10=Comment,BtnPressed,626,1,0
+Mk11=Comment,BtnReleased,876,1,0
+Mk12=Stimulus,S 15,1126,1,0
+Mk13=Response,R 15,1126,1,0
+Mk14=Comment,TO255,1126,1,0
+Mk15=Comment,BtnPressed,1126,1,0
+Mk16=Comment,BtnReleased,1376,1,0
+Mk17=Stimulus,S 15,1626,1,0
+Mk18=Response,R 15,1626,1,0
+Mk19=Comment,TO255,1626,1,0
+Mk20=Comment,BtnPressed,1626,1,0
+Mk21=Comment,BtnReleased,1876,1,0
+Mk22=Stimulus,S 15,2126,1,0
+Mk23=Response,R 15,2126,1,0
+Mk24=Comment,TO255,2126,1,0
+Mk25=Comment,BtnPressed,2126,1,0
+Mk26=Comment,BtnReleased,2376,1,0
+Mk27=Stimulus,S 15,2626,1,0
+Mk28=Response,R 15,2626,1,0
+Mk29=Comment,TO255,2626,1,0
+Mk30=Comment,BtnPressed,2626,1,0
+Mk31=Comment,BtnReleased,2876,1,0
+Mk32=Stimulus,S 15,3126,1,0
+Mk33=Response,R 15,3126,1,0
+Mk34=Comment,TO255,3126,1,0
+Mk35=Comment,BtnPressed,3126,1,0
+Mk36=Comment,BtnReleased,3376,1,0
+Mk37=Stimulus,S 15,3626,1,0
+Mk38=Response,R 15,3626,1,0
+Mk39=Comment,TO255,3626,1,0
+Mk40=Comment,BtnPressed,3626,1,0
